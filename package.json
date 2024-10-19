@@ -13,6 +13,7 @@
   },
   "type": "module",
   "workspaces": [
-    "src/securityNetwork_frontend"
+    "src/securityNetwork_frontend",
+    "src/securitynetwork_recordvoice"
   ]
 }
